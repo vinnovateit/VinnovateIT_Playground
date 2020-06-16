@@ -1,7 +1,7 @@
 # VinnovateIT 🐛
 We are a family and we believe in mutual development. This repository is made to learn developing projects in a team and understand the complete functioning of github. 
  
-## Working
+## Working 
 A Project will be decided and the whole development process will be divided into parts.
 
 From then on , small tasks within each part will be assigned to the member via creation of issues. 
